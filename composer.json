@@ -1,4 +1,14 @@
 {
+    "name": "otonielguajardo/jigsaw-minimal-template",
+    "description": "Minimal starter template for Jigsaw static site generator by Tighten",
+    "keywords": ["starter", "template", "jigsaw", "static", "site", "generator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Otoniel Guajardo",
+            "homepage": "https://github.com/otonielguajardo"
+        }
+    ],
     "require": {
         "tightenco/jigsaw": "^1.7"
     }

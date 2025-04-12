@@ -1,6 +1,6 @@
 # Jigsaw Minimal Starter Template
 
-The cleanest way to start building a static site with Jigsaw.
+A clean slate to start building with Jigsaw.
 
 ## Installation
 

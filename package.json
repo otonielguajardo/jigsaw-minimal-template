@@ -1,9 +1,0 @@
-{
-    "private": true,
-    "scripts": {
-    },
-    "devDependencies": {
-        "postcss": "^8.4.14",
-        "postcss-import": "^14.0.0"
-    }
-}

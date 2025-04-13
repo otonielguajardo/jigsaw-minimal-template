@@ -2,7 +2,7 @@
 
 return [
     'delete' => [
-        'source/_assets/*',
+        'source/_assets',
         'source/assets/build',
         'package.json',
         'tailwind.config.js',
